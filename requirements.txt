@@ -4,3 +4,6 @@ networkx
 matplotlib
 numpy
 openpyxl
+folium
+streamlit-folium
+streamlit-option-menu
